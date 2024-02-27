@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif, Wild Words Roman;
+    background: black;
+}
+
+h1{
+    color: rgb(162, 0, 255);
+}
+
+textarea{
+   color: rgb(54, 54, 54);
+   text-decoration-color: skyblue;
+}
